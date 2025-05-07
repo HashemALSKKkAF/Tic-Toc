@@ -1,0 +1,4946 @@
+[
+    {
+        "input": [
+            "O_____X_X"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__X_X___O"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O__X____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X__XO____"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_XX_OO__"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XX_X_OOXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OXXXO___"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X_OXOX__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X_O__XXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_XX_XOO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_______XO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_XXXOOOX"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XX__X_O_O"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_O__X_X_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O___X_XXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOOXO___"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_____XO_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X__O_OX_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_X_XOO_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_OX_XOXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXXXOO_X_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OXXXO_O_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__X__O___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOOX_XOOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___X_O__X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXXXOX_O_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_____X_X"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X___X_O_O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOX___X_O"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XX____O_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_XO___O_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "____X__O_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__OO_X_X_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXOOOX_OX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X____O_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__XX_O___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_____X_O_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__XX_OO__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_X_____O"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XO______"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OX_XOXOOX"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XX______O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___XXO__O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_OXO___X"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XOXX_OO_X"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___O____X"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O__OX___X"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X____X__O"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__O_X____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_X______"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_XX_O_X_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X__O_X___"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXO_X___X"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_X__XOXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_O_X_O__"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOX___OX_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXO__XX__"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OX___X_XO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOX_X_OO"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_X_X_O__"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___OX____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_O_XX__X"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXOX_OXOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOX__OOXX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OOXOXX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O__X_OX_X"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OO_X___X_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XX__OO_OX"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXXO__XXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXOXOOX_X"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OX___X_OX"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XOO__XXOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_X_____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XX_XXOOO_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_XX__X_O"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__X___O__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "______XO_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XXO__O__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OO_X_OX_X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___OXX__O"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OX_O_OXX_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OX__XO___"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XO__X____"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__O___X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_____O__"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OXXOX__O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_O__X___X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____XO___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_O_X__X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXO_OO_XX"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOXOO_OX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXXO_OXXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X______O_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOXXO____"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXXX_O___"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XOO__XXOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__O___X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O____X_XO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_OO___X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__XX__O__"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OXXXOOXO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OOX_XO_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_____O_XX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X_____O_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O__X__OX_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_O_XO___X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X__X___OO"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X__O_OX__"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_OXX_O_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X__OOX_X"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_O___XO_"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X______O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_X__OOX_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OX__OX___"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XXO_____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_O_XX___"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___O__XXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XX___OXO_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XO_XXOOXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXOXOO_OX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_X_OX___"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___O___X_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOXOO_X__"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXOOXX_OX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XO_OXXOXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_X_____O"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O__X____X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____XO___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OXXOOX_X"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OXO_XOX"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOX_OOXXO"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XX___XO_O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OO_X_XX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXO_X_O_X"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_X_XXO_O"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_X__OOXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OOXX_O_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OXXO_OX_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_____OXXO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_O_X____"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___XO_XXO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XOO__X__"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X______O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O___X____"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_OXOX__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_O______"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OOXXOXOX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXOXOX_OX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXOX___OO"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__O___X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__X____OX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O______X_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OOX__X_XO"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___XO____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_O_____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O___X____"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOXOXX__O"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XOO_X__X_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XX_OXOO__"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_O_OX_X_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X_X_OO_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OX_XOO_X_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__OXX____"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O__X_X_O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_____OXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_XOO__XO"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X__XOXOO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XO_____X"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__X___O__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOXO_XXOO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_XOXXO_O"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XO_X_OOXX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_OXXOOXX"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_XXOOX_X"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XOXOX_OX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OXXOXOX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___X__X_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O___X_X_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OO_XOXXX_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____X_O_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____XX_OO"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXOX___XO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XO___XOOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OX_X_OXOX"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X___O_OX_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OXOXX_XO"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X______OX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__O___X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_X_O____"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_O___XX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_OXO___X"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OX____XO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__XXOO___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XX_O_XOXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_X_____X"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_X__OOXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOOOXX___"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XO_X___O"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_OXX__O"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_______OX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__XOO_X_X"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_OXXOXX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XX___O__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OX____X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXXX__O__"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___O_XX__"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOO_XOXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_____X_X"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_XOO____"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "______XOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OOX__X_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___X__O__"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "____OX_X_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OXO__X_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OOX_XX_O_"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__O___X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXOXOOXX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "____O__X_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XO__XO__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXOO_XXOO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OOXX_____"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X__OOXO_X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXOOOXX__"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X__X_O___"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____XO___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___OX____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "______XO_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X__O_X___"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__O___X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_XOX____"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_OO_XXXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X__O___X_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O______XX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XX_O_XO_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X____O__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__X__O__X"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOXOO_OX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_____OXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___OX_X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OOX_XX_XO"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XX__XO_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_OXX___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___X_O___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___X_O_X_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X__O___X_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XO_X_____"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__XO_X___"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXXXXOO_O"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_XXXO___"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OX__XXOOX"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____O__XX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_XO_OXX_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OOXXOXOX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___OX____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__O_X____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O__XO_X_X"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_XX__OXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXO___O_X"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_____O_X_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OO__X___X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XXXOXOO_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X____O__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__OOXOX_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOXXX__OO"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_XXOO_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_O__X_O"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_X_O___O"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__XX_O___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_O_____X"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O__X_XOX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_O_XOXX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOOOXOXX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__OX_XOXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_O___X___"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXOXOO_OX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XXO__XOXO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____O_X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O___XOX__"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OX_XX___O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XO___OXXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__O__XO_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X______O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O_X____X_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_XO___XX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_OXO____"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_O_X_____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__OX_X___"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOO_X_XO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___OXOOXX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_X_OXO_O"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOO__XO_X"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_____XO_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXO_OO__X"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_XO_XO_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OOX__X_X_"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__XO_X___"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OX_XX_XOO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____XOXXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O___X__X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O___XO_X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__OX_XO_X"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OX___X_XO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__XO_OXX_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___XXO_XO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__XXOX_O_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XOX_X___O"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O_XO_X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X__X__OO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__X__O_OX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "____O___X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X____X_O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OXX___XO"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X_OX_O_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OXXO__X_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OXXOXX_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X__OX_O_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OO_OXX_X_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OO__XX_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__X____OX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_X_X___O"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_O__X___"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XO_XXOOXO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_____O__"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__XO_____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XXXOO_OX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O___XXXO_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X__X___O"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_OX_X_O_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O_X___OXX"
+        ],
+        "output": [
+            "3"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O__X_____"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___O___XX"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOX___O_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X__O____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OXX_O_OX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_____XOOX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XXXO__O_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OOX_XOXX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__O_X_XXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XO_O_XXO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOOOXX_X_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X__X_O__"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O__XX_OX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XX__OXXOO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O__XX____"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "O__OXX_XO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___XO_X_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XOXOXOOX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_____XO_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___XO___X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OOXX_XX_O"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "______O_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___X___OX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OO_O_X_XX"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "____XO___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_OX_XX_O_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X__OX_O_"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_XXOOOXO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__O_OXX__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___OX_X_O"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "O__X_XXO_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XXOOXO___"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___X_OO_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___X__X_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OX_O_X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "___OO_XX_"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XOX_X__O"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___O__XOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X____XXOO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__O_OXXX_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XO_OOX_XX"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XOX__X__O"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_____OOX"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "XO_O__X_X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_O__XX_O_"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__XXXOOO_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_XOX__O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OOXXOOXX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_____OX_X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XOOOXXOX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X_XO_O_X"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X_OX____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_XX____OO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X__XO____"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OXXO__X"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X___XO___"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__OOXXX_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X_OX_X_O_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___X_OX_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_X__O_X__"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_____X_O_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXOXOOX_X"
+        ],
+        "output": [
+            "7"
+        ],
+        "metadata": {
+            "move_count": 8,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "__X____O_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X___X_XOO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X_X_XO_O_"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OO_X_X_XO"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_O___XX__"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_OX_OX_X_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OX_XO__X_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "____OX___"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_____X__O"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OXX_O_XOX"
+        ],
+        "output": [
+            "5"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "X____OOX_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 4,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_O_X_____"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XO______"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 2,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "_XO_XOXOX"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 7,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "_X_XOXO_O"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "X__O_X_XO"
+        ],
+        "output": [
+            "1"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "__X__X_O_"
+        ],
+        "output": [
+            "8"
+        ],
+        "metadata": {
+            "move_count": 3,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "OXOO_X_X_"
+        ],
+        "output": [
+            "4"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    },
+    {
+        "input": [
+            "OX__X_XO_"
+        ],
+        "output": [
+            "2"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "___XX_XOO"
+        ],
+        "output": [
+            "0"
+        ],
+        "metadata": {
+            "move_count": 5,
+            "current_turn": "X"
+        }
+    },
+    {
+        "input": [
+            "XO__XX_OO"
+        ],
+        "output": [
+            "6"
+        ],
+        "metadata": {
+            "move_count": 6,
+            "current_turn": "O"
+        }
+    }
+]
